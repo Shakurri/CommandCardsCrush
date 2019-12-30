@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CommandCardsCrush",
+"productVersion": "1.0",
+"dataUrl": "cccweb.data.unityweb",
+"asmCodeUrl": "cccweb.asm.code.unityweb",
+"asmMemoryUrl": "cccweb.asm.memory.unityweb",
+"asmFrameworkUrl": "cccweb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a2"
+}
